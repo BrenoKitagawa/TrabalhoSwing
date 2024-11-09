@@ -1,4 +1,4 @@
-# Sistema para Gerencimento de Medicamento [Em desenvolvimento]
+# Sistema para Gerencimento de Medicamento
 ## ADS - Faculdades SENAC - Maringá
 
 ```
